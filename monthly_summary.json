@@ -1,0 +1,74 @@
+[
+  {
+    "month": "2026-08",
+    "building": "Academic_Block_A",
+    "total_kwh": 12947.84,
+    "avg_daily_kwh": 431.59,
+    "max_daily_kwh": 499.92,
+    "valid_days": 30
+  },
+  {
+    "month": "2026-08",
+    "building": "Hostel_Block_B",
+    "total_kwh": 9892.54,
+    "avg_daily_kwh": 329.75,
+    "max_daily_kwh": 378.87,
+    "valid_days": 30
+  },
+  {
+    "month": "2026-08",
+    "building": "Lab_Complex_C",
+    "total_kwh": 17771.61,
+    "avg_daily_kwh": 573.28,
+    "max_daily_kwh": 716.79,
+    "valid_days": 31
+  },
+  {
+    "month": "2026-09",
+    "building": "Academic_Block_A",
+    "total_kwh": 13117.98,
+    "avg_daily_kwh": 437.27,
+    "max_daily_kwh": 511.1,
+    "valid_days": 30
+  },
+  {
+    "month": "2026-09",
+    "building": "Hostel_Block_B",
+    "total_kwh": 9935.01,
+    "avg_daily_kwh": 331.17,
+    "max_daily_kwh": 378.81,
+    "valid_days": 30
+  },
+  {
+    "month": "2026-09",
+    "building": "Lab_Complex_C",
+    "total_kwh": 18360.53,
+    "avg_daily_kwh": 633.12,
+    "max_daily_kwh": 885.95,
+    "valid_days": 29
+  },
+  {
+    "month": "2026-10",
+    "building": "Academic_Block_A",
+    "total_kwh": 12462.59,
+    "avg_daily_kwh": 429.74,
+    "max_daily_kwh": 516.56,
+    "valid_days": 29
+  },
+  {
+    "month": "2026-10",
+    "building": "Hostel_Block_B",
+    "total_kwh": 9705.81,
+    "avg_daily_kwh": 334.68,
+    "max_daily_kwh": 437.52,
+    "valid_days": 29
+  },
+  {
+    "month": "2026-10",
+    "building": "Lab_Complex_C",
+    "total_kwh": 15613.21,
+    "avg_daily_kwh": 578.27,
+    "max_daily_kwh": 700.12,
+    "valid_days": 27
+  }
+]
